@@ -1,6 +1,6 @@
 # Working Mobility Deprivation Index Expansion
 
-This code is to expanding work completed by the Edinburgh and South Scotland City Region Deal Project to calculate a Scotland-wide Working Mobility Deprivation Index.
+This code is to expand work completed by the Edinburgh and South Scotland City Region Deal Project to calculate a Scotland-wide Working Mobility Deprivation Index.
 
 It is made up of four components (as defined in the original project):
 
